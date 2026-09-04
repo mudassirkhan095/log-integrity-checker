@@ -2,6 +2,9 @@
 
 A simple security tool that checks whether log files have been modified or tampered with by using SHA-256 cryptographic hashing.
 
+## Project URL
+
+https://roadmap.sh/projects/file-integrity-checker
 ## Features
 
 - Accepts a single log file or a directory.
